@@ -15,6 +15,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * changes are these
  * blah blah blah
  * yohohohohoho
+ *checking fetch and merge
  */
 public class Student 
 {
